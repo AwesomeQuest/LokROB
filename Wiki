@@ -1,0 +1,8 @@
+Wiki
+
+Use the breadboard appropriately.
+
+Connect the relay gnd(Ground) to the gnd on the Arduino, relay in1 to pin 8 on arduino.
+Connect the arduino 5v to the bread board and the DHT senosr aswell, connect the sensor pin to pin 2 and gnd to gnd.
+
+Upload the code to the arduino and the rest will be done for you.
